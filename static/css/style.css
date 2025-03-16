@@ -1,0 +1,19 @@
+.top-navbar {
+  position: fixed;
+  z-index: 300;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #ffffff;
+  font-family: "Noto Sans Mono", monospace;
+  padding: 0.4em;
+}
+
+.threejs-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
