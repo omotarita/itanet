@@ -1,6 +1,2 @@
 .DS_Store
-static/assets/itanet-online.glb
-static/assets/itanet-scene.gltf
-static/assets/coffee_table_low_poly/*
-static/assets/vinyl_table.glb
-static/js/itanet-scene.json
+static/assets/*
